@@ -40,7 +40,9 @@ body {
 }
 
 .logo {
+  position: relative;
   width: 100px;
+  z-index: 1;
 }
 
 .navbar {
