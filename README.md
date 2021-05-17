@@ -5,7 +5,7 @@ Was a project made for design school using BootStrap and jQuery that it helped m
 
 ## Tech Stack (Updated)
 
-**Client:** Sass
+**Client:** Sass, Vanilla Js
 ## Authors
 
 - [@santiagoolivieridg](https://github.com/santiagoolivieridg)
